@@ -107,6 +107,8 @@ public class Solution {
             System.out.printf("%d->",result.value);
             result=result.next;
         }
+		//纯属测试git，忽略这行代码吧，哈哈
+		
 
     }
 
